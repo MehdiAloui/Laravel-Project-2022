@@ -20,4 +20,4 @@ devez utiliser les coordonnes
 suivantes :
 Email:user@user.com
 Password:secret<br/>
-pour plus de formation vous pouvez consulter ce pdf : https://drive.google.com/file/d/1nzcfwXSSuIIu24bN7fYFc2jIeRE2c9P4/view
+pour plus de formation vous pouvez consulter ce pdf : https://drive.google.com/file/d/1exT3SU4lANAeWWzR9zXI0Ujc2XJBUpyP/view
