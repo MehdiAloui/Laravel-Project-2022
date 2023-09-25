@@ -19,4 +19,5 @@ Pour login as à normal user vous
 devez utiliser les coordonnes 
 suivantes :
 Email:user@user.com
-Password:secret
+Password:secret<br/>
+pour plus de formation vous pouvez consulter ce pdf : https://drive.google.com/file/d/1nzcfwXSSuIIu24bN7fYFc2jIeRE2c9P4/view
