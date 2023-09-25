@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Laravel Boilerplate (Current: Laravel 8.*) ([Demo](https://demo.laravel-boilerplate.com))
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
@@ -44,3 +45,7 @@ If you discover a security vulnerability within this boilerplate, please send an
 ### License
 
 MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+=======
+# Laravel-Project-2022
+this project related to university
+>>>>>>> 7c02aee0fd6efb6f9362624d911847fd35040547
